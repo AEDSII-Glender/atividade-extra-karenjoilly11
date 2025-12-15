@@ -1,3 +1,4 @@
+package sistema_produtos;
 public class No<K, V> {
 
 	private K chave;       // chave identificadora do item armazenado no nodo da árvore.
