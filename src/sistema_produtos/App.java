@@ -1,3 +1,4 @@
+package sistema_produtos;
 import java.nio.charset.Charset;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
